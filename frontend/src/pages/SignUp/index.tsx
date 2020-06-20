@@ -65,6 +65,6 @@ const SignUp: React.FC = () => {
       </Content>
     </Container>
   );
-}
+};
 
-export default SignUp
+export default SignUp;
