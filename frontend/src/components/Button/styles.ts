@@ -9,6 +9,8 @@ export const Container = styled.button`
   padding: 0 16px;
   color: #312e38;
   width: 100%;
+  font-family: 'Roboto Slab', serif;
+  font-size: 16px;
   font-weight: 500;
   margin-top: 16px;
   transition: background-color 0.2s;
