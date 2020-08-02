@@ -12,6 +12,6 @@ const providers = {
 };
 
 container.registerSingleton<IStorageProvider>(
-  'MailTemplateProvider',
+  'StorageProvider',
   providers[uplodConfig.driver],
 );
