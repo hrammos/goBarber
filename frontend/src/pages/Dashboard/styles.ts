@@ -229,7 +229,7 @@ export const Calendar = styled.aside`
 
   .DayPicker,
   .DayPicker-Month {
-    width: 100%;
+    /* width: 100%; */
   }
 
   .DayPicker-Month {
